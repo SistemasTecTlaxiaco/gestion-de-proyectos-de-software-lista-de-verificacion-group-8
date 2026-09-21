@@ -14,7 +14,7 @@
 
 ---
 
-## 1. Homologación de Estándares Tradicionales a GitHub (CMMI / MoProSoft)
+## 1. Homologación de Estándares Tradicionales a GitHub (CMMI / MoProSoft).
 
 Para garantizar la rigurosidad técnica, los procesos tradicionales de calidad se adaptan a los mecanismos nativos de GitHub:
 
@@ -27,7 +27,7 @@ Para garantizar la rigurosidad técnica, los procesos tradicionales de calidad s
 
 ---
 
-## 2. Sistema de Insignias y Lista de Verificación (Checklist)
+## 2. Sistema de Insignias y Lista de Verificación (Checklist).
 
 El sistema evalúa el control de configuración en tres niveles de madurez acumulativos:
 
