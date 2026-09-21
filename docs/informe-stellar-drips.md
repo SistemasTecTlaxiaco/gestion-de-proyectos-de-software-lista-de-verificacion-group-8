@@ -50,7 +50,7 @@ El proyecto **Open Hub Tec** no opera en un vacío tecnológico; se despliega en
 
 ---
 
-## 3. Pensamiento Crítico: Riesgos de Seguridad y Dilemas Éticos en Blockchain
+## 3. Pensamiento Crítico: Riesgos de Seguridad y Dilemas Éticos en Blockchain.
 
 El análisis de calidad debe evaluar críticamente las amenazas, no solo los beneficios de la tecnología Web3.
 
