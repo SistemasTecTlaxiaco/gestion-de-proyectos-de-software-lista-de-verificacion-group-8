@@ -19,7 +19,7 @@ Este informe presenta un análisis riguroso sobre los requerimientos de calidad 
 
 ---
 
-## 1. Análisis Técnico de Requerimientos de Calidad y Gestión de Código Abierto
+## 1. Análisis Técnico de Requerimientos de Calidad y Gestión de Código Abierto.
 
 La calidad en ecosistemas descentralizados no es opcional; un error en un contrato inteligente es inmutable y puede resultar en pérdida definitiva de activos.
 
@@ -40,7 +40,7 @@ Drips es un protocolo de código abierto que permite el *streaming* de fondos on
 
 ---
 
-## 2. Adaptación a Situaciones y Contextos Complejos: La Mixteca
+## 2. Adaptación a Situaciones y Contextos Complejos: La Mixteca.
 
 El proyecto **Open Hub Tec** no opera en un vacío tecnológico; se despliega en la región Mixteca, un entorno con retos de infraestructura significativos. Adaptar la calidad de software a esta realidad es el mayor desafío.
 
