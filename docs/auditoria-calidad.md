@@ -48,7 +48,7 @@ El sistema evalúa el control de configuración en tres niveles de madurez acumu
 - [x] **PL-04 (Revisión Formal entre Pares):** Pull Requests documentados con revisión técnica y vinculación explícita a Issues (`Closes #X`).
 - [x] **PL-05 (Guía de Colaboración):** Archivo `CONTRIBUTING.md` con lineamientos de commits, nombres de ramas y reglas de merge.
 
-### 🥇 Nivel 3: Insignia de Oro (CMMI Nivel 3 - Verificación Automatizada)
+###  Nivel 3: Insignia de Oro (CMMI Nivel 3 - Verificación Automatizada)
 *Objetivo:* Asegurar la calidad del software de manera automatizada y blindar la integridad del producto final.
 
 - [ ] **OR-01 (Protección de Gobernanza):** `Branch Protection Rules` activas en `main` (bloqueo de force push y revisión obligatoria).
