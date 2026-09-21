@@ -58,7 +58,7 @@ El sistema evalúa el control de configuración en tres niveles de madurez acumu
 
 ---
 
-## 3. Reporte de Ejecución de la Auditoría
+## 3. Reporte de Ejecución de la Auditoría.
 
 * **Fecha de auditoría:** 21 de septiembre de 2026
 * **Auditor(a):** Desarrolladora / Gestora del Proyecto
@@ -77,7 +77,7 @@ El sistema evalúa el control de configuración en tres niveles de madurez acumu
 
 ---
 
-## 4. Dictamen de Calidad
+## 4. Dictamen de Calidad.
 
 * **Insignia Obtenida:** **🥈 PLATA (Silver Quality Badge)**
 * **Dictamen y Honestidad Académica:**  
