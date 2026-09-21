@@ -1,5 +1,5 @@
 # 📘 Informe Técnico: Gestión de Calidad en Ecosistemas Descentralizados y Código Abierto
-**Proyecto:** Open Hub Tec (Región Mixteca)  
+**Proyecto:** Textil (Región Mixteca)  
 **Plataformas:** Stellar (Soroban) & Drips Protocol  
 **Asignatura:** Gestión de Proyectos de Software  
 
