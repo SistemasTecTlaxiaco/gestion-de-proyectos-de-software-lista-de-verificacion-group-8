@@ -1,4 +1,4 @@
-# 📋 Instrumento de Auditoría de Calidad y Control de Cambios
+#  Instrumento de Auditoría de Calidad y Control de Cambios
 **Asignatura:** Gestión de Proyectos de Software (SCG-1009)  
 **Unidad 2:** Gestión de Calidad  
 **Tema:** 2.5 Control de Cambios y Configuración de Software  
@@ -31,7 +31,7 @@ Para garantizar la rigurosidad técnica, los procesos tradicionales de calidad s
 
 El sistema evalúa el control de configuración en tres niveles de madurez acumulativos:
 
-### 🥉 Nivel 1: Insignia de Bronce (Control Inicial y Línea Base)
+###  Nivel 1: Insignia de Bronce (Control Inicial y Línea Base)
 *Objetivo:* Garantizar la estructura elemental del proyecto y la higiene del repositorio.
 
 - [x] **BR-01 (Línea Base Documental):** Archivo `README.md` estructurado con contexto, objetivos y comandos base.
@@ -39,7 +39,7 @@ El sistema evalúa el control de configuración en tres niveles de madurez acumu
 - [x] **BR-03 (Términos de Distribución):** Archivo `LICENSE` formalmente establecido en la raíz.
 - [x] **BR-04 (Trazabilidad Básica de Cambios):** Historial de commits con mensajes descriptivos en imperativo (evitando commits genéricos como *"cambios"* o *"fix"*).
 
-### 🥈 Nivel 2: Insignia de Plata (Estandarización, MoProSoft y Revisión por Pares)
+### Nivel 2: Insignia de Plata (Estandarización, MoProSoft y Revisión por Pares)
 *Objetivo:* Implementar gobernanza del flujo de trabajo y trazabilidad formal entre requerimientos y código.
 
 - [x] **PL-01 (Estrategia de Ramas):** Prohibido el trabajo directo sobre la rama `main`; uso de ramas temáticas (`feature/*`, `fix/*`).
@@ -79,7 +79,7 @@ El sistema evalúa el control de configuración en tres niveles de madurez acumu
 
 ## 4. Dictamen de Calidad.
 
-* **Insignia Obtenida:** **🥈 PLATA (Silver Quality Badge)**
+* **Insignia Obtenida:** ** PLATA (Silver Quality Badge)**
 * **Dictamen y Honestidad Académica:**  
   El repositorio cumple con el 100% de los lineamientos de los niveles Bronce y Plata, demostrando control de configuración y trazabilidad según MoProSoft. No se adjudica la Insignia de Oro con rigor técnico debido a que los pipelines de integración continua automatizada y las reglas de protección forzada de rama están en fase de implementación.
 
